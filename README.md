@@ -7,7 +7,7 @@ This paper presents a memetic approach of Competitive Swarm Optimizer (CSO) name
 ## Citation
 @article{Zhong:25,  
   title={Self-adaptive competitive swarm optimizer: a memetic approach for global optimization and human-powered aircraft design},  
-  author={Rui Zhong and Zhongmin Wangg and Ibrahim Al-Shourbajig and Essam H. Housseing and Pramod H. Kachareg and Abdoh Jabbarig and Raimund Kirnerg and Jun Yu },  
+  author={Rui Zhong and Zhongmin Wang and Ibrahim Al-Shourbaji and Essam H. Houssein and Pramod H. Kachare and Abdoh Jabbari and Raimund Kirner and Jun Yu },  
   journal={Memetic Computing},  
   number={32},  
   volume={17},  
